@@ -1,0 +1,12 @@
+@import url('./__container/user__container.css');
+@import url('./__info/user__info.css');
+@import url('./__buttons/user__buttons.css');
+@import url('./__name/user__name.css');
+@import url('./__id/user__id.css');
+@import url('./__button/user__button.css');
+
+.user {
+    color: #ffffff;
+    position: relative;
+    width: 100%;
+}

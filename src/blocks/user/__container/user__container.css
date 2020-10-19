@@ -1,0 +1,7 @@
+.user__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}

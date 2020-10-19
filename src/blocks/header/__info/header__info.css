@@ -1,0 +1,13 @@
+.header__info {
+    /* margin-bottom: 40px; */
+    display: flex;
+    width: 170px;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 320px) and (max-width: 424px) {
+    .header__info {
+        margin: 0; 
+    }
+}

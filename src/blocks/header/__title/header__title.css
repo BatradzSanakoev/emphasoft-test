@@ -1,0 +1,10 @@
+.header__title {
+    color: #ffffff;
+    margin: 0; 
+}
+
+@media screen and (min-width: 320px) and (max-width: 424px) {
+    .header__title {
+        margin-bottom: 10px; 
+    }
+}

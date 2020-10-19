@@ -1,0 +1,4 @@
+.user__buttons {
+    display: flex;
+    flex-direction: column;
+}
