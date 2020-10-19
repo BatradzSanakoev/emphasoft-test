@@ -1,11 +1,9 @@
 import React from 'react';
 import { Switch, Route, Redirect, useHistory } from 'react-router-dom';
 import * as Auth from './Auth';
-import * as Api from './Api';
 import Login from './Login';
 import ProtectedRoute from './ProtectedRoute';
 import Page from './Page';
-import CheckImg from '../images/check.png';
 import UnCheckImg from '../images/uncheck.png';
 
 export default function App() {

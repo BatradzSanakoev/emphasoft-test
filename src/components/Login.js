@@ -43,7 +43,7 @@ export default function Login({ handleLogin, isInfoToolOpen, onClose, forInfoToo
                                 onChange={handleChange}
                                 onBlur={handleBlur}
                             />
-                            <p className='error'>{touched.username && errors.username && errors.username}</p>
+                            <p className='pop-up__form-error'>{touched.username && errors.username && errors.username}</p>
                             <input
                                 className='auth-section__input'
                                 type='password'
@@ -53,7 +53,7 @@ export default function Login({ handleLogin, isInfoToolOpen, onClose, forInfoToo
                                 onChange={handleChange}
                                 onBlur={handleBlur}
                             />
-                            <p className='error'>{touched.password && errors.password && errors.password}</p>
+                            <p className='pop-up__form-error'>{touched.password && errors.password && errors.password}</p>
                             <button
                                 type='submit'
                                 className='auth-section__button'
