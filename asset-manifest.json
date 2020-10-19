@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emphasoft-test/static/css/main.5aa0d1f7.chunk.css",
+    "main.js": "/emphasoft-test/static/js/main.1d3cddaa.chunk.js",
+    "main.js.map": "/emphasoft-test/static/js/main.1d3cddaa.chunk.js.map",
+    "runtime-main.js": "/emphasoft-test/static/js/runtime-main.5f0eefb9.js",
+    "runtime-main.js.map": "/emphasoft-test/static/js/runtime-main.5f0eefb9.js.map",
+    "static/js/2.da9260bd.chunk.js": "/emphasoft-test/static/js/2.da9260bd.chunk.js",
+    "static/js/2.da9260bd.chunk.js.map": "/emphasoft-test/static/js/2.da9260bd.chunk.js.map",
+    "index.html": "/emphasoft-test/index.html",
+    "precache-manifest.fd857391e13626cf4d9b6175e8592bbf.js": "/emphasoft-test/precache-manifest.fd857391e13626cf4d9b6175e8592bbf.js",
+    "service-worker.js": "/emphasoft-test/service-worker.js",
+    "static/css/main.5aa0d1f7.chunk.css.map": "/emphasoft-test/static/css/main.5aa0d1f7.chunk.css.map",
+    "static/js/2.da9260bd.chunk.js.LICENSE.txt": "/emphasoft-test/static/js/2.da9260bd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/emphasoft-test/static/media/Inter-ThinItalic.bea92069.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f0eefb9.js",
+    "static/js/2.da9260bd.chunk.js",
+    "static/css/main.5aa0d1f7.chunk.css",
+    "static/js/main.1d3cddaa.chunk.js"
+  ]
+}
