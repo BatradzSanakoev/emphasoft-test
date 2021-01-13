@@ -1,8 +1,11 @@
 GH-Pages https://batradzsanakoev.github.io/emphasoft-test/
 
 Бекенд: http://emphasoft-test-assignment.herokuapp.com/swagger/
+--
 Username: test_super
+--
 Password: Nf<U4f<rDbtDxAPn
+--
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
